@@ -1,0 +1,6 @@
+{
+  "name": "Dash Runner: 2D Arcade Jump Game",
+  "description": "A high-octane 2D precision jumping arcade game featuring dynamic procedural hazards, variable jump physics, squash-and-stretch animation, synth audio, and particle effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
